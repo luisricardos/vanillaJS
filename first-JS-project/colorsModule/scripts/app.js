@@ -1,4 +1,4 @@
-import {getRandomNumber} from './common.js';
+import {getRandomNumber} from '../../utils/common.js';
 
 const colors = ["green", "red", "rgba(133,122,200)", "#f15025"];
 
